@@ -1,14 +1,19 @@
-# Welcome!
+# Introduction
 
 Aloha and Mahalo for participating in the Capture the Flag (CTF) event hosted by [ISC2 Hawaii](https://isc2hawaii.com/). 
 
+## Important Information
 To access the CTF platform please visit [here](https://ctf.isc2hawaii.com/).
 
+## K-12 Participants Only
 [K-12 Only Discord Server](https://discord.com/invite/EEUtj3d38z)
 
+## Professional Participants Only
 [Professionals Only Discord Server](https://discord.com/invite/7YmvJ9Sj6N)
 
 ## Rules
+
+The following rules applies to both the CTF platform and Discord servers. You will be removed from participating in the CTF if you are caught.
 
 * No inappropriate usernames and nicknames.
 * No sexually usernames and explicit nicknames.
@@ -30,6 +35,8 @@ To access the CTF platform please visit [here](https://ctf.isc2hawaii.com/).
 Begin by registering for a CTF account, on the top right of the CTF site. Click on "Register".
 Be sure to fill out all the information such as the username, email address (must be able to verify account), a strong password, and your Affiliation (Name of the company or school that you're affiliated with e.g. Kaimuki High School, Hawaii Bank).
 
+
+
 ## Basic Information
 
 ### Challenges
@@ -40,7 +47,13 @@ There are various difficulty of challenges created in several Cybersecurity rela
 
 Please do not be alarmed as these challenges are not available until you have solved a pre-requisite challenge.
 
-If you get stuck on a challenge, don't spend too much time on it and move onto another challenge to come back to it later. 
+If you get stuck on a challenge, don't spend too much time on it and move onto another challenge to come back to it later.
+
+### Live Challenges
+
+In this CTF environment, there are ***live challenges*** that require you to open a ticket in the respective Discord server and post your responses from there.
+
+***Note: The ticketing system isn't meant to be used to ask for help or hints. Please use the respective #help channel in the Discord server to ask for help. CTF Staff will not hold your hands in solving any challenges***
 
 ### Flags
 
