@@ -3,6 +3,7 @@
 Aloha and Mahalo for participating in the Capture the Flag (CTF) event hosted by [ISC2 Hawaii](https://isc2hawaii.com/). 
 
 ## Important Information
+
 To access the CTF platform please visit [here](https://ctf.isc2hawaii.com/).
 
 ## K-12 Participants Only
@@ -34,8 +35,6 @@ The following rules applies to both the CTF platform and Discord servers. You wi
 
 Begin by registering for a CTF account, on the top right of the CTF site. Click on "Register".
 Be sure to fill out all the information such as the username, email address (must be able to verify account), a strong password, and your Affiliation (Name of the company or school that you're affiliated with e.g. Kaimuki High School, Hawaii Bank).
-
-
 
 ## Basic Information
 

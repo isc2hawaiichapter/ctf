@@ -53,3 +53,7 @@ extra:
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
 copyright: Copyright &copy; 2023 ISC2 Hawaii - CTF Team
+nav:
+  - Home: index.md
+  - Welcome (Read Me): introduction.md
+  - CTF Resources: ctfresources.md
