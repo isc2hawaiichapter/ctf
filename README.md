@@ -1,2 +1,0 @@
-# ctf
-CTF Site
