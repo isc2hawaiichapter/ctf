@@ -29,12 +29,17 @@ The following rules applies to both the CTF platform and Discord servers. You wi
 * No racism.
 * No hate speech.
 * No offensive language/cursing.
+* No collusion with other teams.
 * Be professional and have fun!
 
 ## Registration
 
 Begin by registering for a CTF account, on the top right of the CTF site. Click on "Register".
 Be sure to fill out all the information such as the username, email address (must be able to verify account), a strong password, and your Affiliation (Name of the company or school that you're affiliated with e.g. Kaimuki High School, Hawaii Bank).
+
+### Teams
+
+Each team may have up to **5 (FIVE)** participants and multiple teams representing a school or company. However, please do not collude with others to gain an advantage. 
 
 ## Basic Information
 
@@ -70,3 +75,13 @@ All multiple choice challenges will only allow **1 (ONE)** submission before the
 ### Hints
 
 We have provided hints onto all of our challenges. The first teaser hint cost **0** points, however each additional hint beyond the first one will cost you points.
+
+### Points
+
+All challenges have the assigned points:
+
+| Difficulty | Points |
+| ----------- | ----- |
+| Easy        | 5     |
+| Medium      | 10    |
+| Hard        | 15    |

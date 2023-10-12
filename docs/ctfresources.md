@@ -4,8 +4,18 @@ Most of our challenges can be completed without the need of downloading and inst
 
 ## Online Tools
 
+- [Tool]()
+- [Tool]()
+- [Tool]()
+
 ## Windows Tools
+
+- [Tool]()
+- [Tool]()
+- [Tool]()
 
 ## Kali Linux Tools
 
-
+- [Tool]()
+- [Tool]()
+- [Tool]()
