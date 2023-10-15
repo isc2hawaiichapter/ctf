@@ -71,14 +71,14 @@ nav:
   - Challenges: 
     - challenges.md
     - AI Tools: subaitools.md
-    - Binary Exploitation: blank.md
-    - Cryptogrphy: blank.md
-    - Forensics: blank.md
-    - GRC: blank.md
+    - Binary Exploitation: subbinaryexploitation.md
+    - Cryptogrphy: subcryptography.md
+    - Digital Forensics: subdigitalforensics.md
+    - GRC: subgrc.md
     - Log Analysis: blank.md
     - Network Traffic Analysis: blank.md
-    - OSINT: blank.md
+    - OSINT: subosint.md
     - Password Cracking: blank.md
-    - Security Awareness: blank.md
+    - Security Awareness: subsecawareness.md
     - Web Exploitation: blank.md
   - CTF Resources: ctfresources.md
