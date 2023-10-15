@@ -47,6 +47,14 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+plugins:
+  - search
 extra:
   generator: false
   consent:
@@ -60,8 +68,9 @@ copyright: Copyright &copy; 2023 ISC2 Hawaii - CTF Team
 nav:
   - Home: index.md
   - READ ME: introduction.md
-  - Challenges:
-    - AI Tools: blank.md
+  - Challenges: 
+    - challenges.md
+    - AI Tools: subaitools.md
     - Binary Exploitation: blank.md
     - Cryptogrphy: blank.md
     - Forensics: blank.md
