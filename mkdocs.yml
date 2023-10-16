@@ -81,4 +81,5 @@ nav:
     - Password Cracking: subpasswordcracking.md
     - Security Awareness: subsecawareness.md
     - Web Exploitation: subwebexploitation.md
+  - Past Winners: winners.md
   - CTF Resources: ctfresources.md
