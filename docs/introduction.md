@@ -91,6 +91,7 @@ All challenges have the assigned points per their difficulties:
 
 | Difficulty | Points |
 | ----------- | ----- |
+| Multiple Choice        | 2     |
 | Easy        | 5     |
 | Medium      | 10    |
 | Hard        | 15    |

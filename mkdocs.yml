@@ -75,10 +75,10 @@ nav:
     - Cryptogrphy: subcryptography.md
     - Digital Forensics: subdigitalforensics.md
     - GRC: subgrc.md
-    - Log Analysis: blank.md
-    - Network Traffic Analysis: blank.md
+    - Log Analysis: subloganalysis.md
+    - Network Traffic Analysis: subnetworktrafficanalysis.md
     - OSINT: subosint.md
-    - Password Cracking: blank.md
+    - Password Cracking: subpasswordcracking.md
     - Security Awareness: subsecawareness.md
-    - Web Exploitation: blank.md
+    - Web Exploitation: subwebexploitation.md
   - CTF Resources: ctfresources.md
