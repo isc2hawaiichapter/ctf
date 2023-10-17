@@ -1,6 +1,8 @@
 # Past Event Winners
 
 ## ISC2 Hawaii - AI Odyssey CTF (October 2023)
+![ISC2 Hawaii](assets/AI_ODYSSEY.png)
+
 | Rank | School - Team | Points |
 | ----------- | ----- | ----- |
 | 1 | Seabury - Spartans Red | 832 |
