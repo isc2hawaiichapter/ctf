@@ -35,3 +35,19 @@ Most of our challenges can be completed without the need of downloading and inst
 - [Wireshark](https://www.wireshark.org/)
 - [Audacity](https://www.audacityteam.org/)
 - [JSON Processor](https://github.com/jqlang/jq)
+- [Kali Tools](https://www.kali.org/tools/)
+
+## Operating Systems
+
+- [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
+- [Windows 11](https://www.microsoft.com/software-download/windows11)
+- [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
+
+**Note: You may find online guides and tutorials on how to download Operating System images and set them up to your environment**
+
+## Type 2 Hypervisor (Virtual Machines)
+
+- [VMWare Workstation Player](https://www.vmware.com/products/workstation-player.html)
+- [Virtual Box](https://www.virtualbox.org/)
+
+**Note: You may find online guides and tutorials on how to download, configure, and setup Type 2 Hypervisors per Operating System host and guest. 
