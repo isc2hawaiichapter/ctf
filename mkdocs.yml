@@ -68,8 +68,8 @@ copyright: Copyright &copy; 2023 ISC2 Hawaii - CTF Team
 nav:
   - Home: index.md
   - READ ME: introduction.md
-  - Challenges: 
-    - challenges.md
+  - Resources: 
+    - resources.md
     - AI Tools: subaitools.md
     - Binary Exploitation: subbinaryexploitation.md
     - Cryptogrphy: subcryptography.md
@@ -82,4 +82,4 @@ nav:
     - Security Awareness: subsecawareness.md
     - Web Exploitation: subwebexploitation.md
   - Past Winners: winners.md
-  - CTF Resources: ctfresources.md
+  - Tools: tools.md

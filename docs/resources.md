@@ -1,4 +1,4 @@
-# Challenge Categories
+# Resources
 
 The CTF has many challenge categories and some learning material about those categories are provided here for your quick reference. This site isn't all inclusive to all Challenge Categoeries or areas of Cybersecurity. CTF participants are expected to perform their own research about the areas they are unsure about. 
 
