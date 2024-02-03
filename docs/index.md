@@ -1,6 +1,8 @@
 #
 [![ISC2 Hawaii](assets/ISC2Hawaii_v2.png)](https://isc2hawaii.com/){:target="_blank"}
 
+## [CTF 365 Platform](https://ctf365.isc2hawaii.com/)
+
 ## CTF Staff
 
 Mahalo to the volunteers of the CTF Team who actively take the time out of their busy schedules to create the CTF environment and make this all happen.
