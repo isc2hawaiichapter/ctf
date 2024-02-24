@@ -27,6 +27,7 @@ Most of our challenges can be completed without the need of downloading and inst
 - [morsecoder](https://morsedecoder.com/)
 - [tunnelsup hash analyzer](https://www.tunnelsup.com/hash-analyzer/)
 - [hashtoolkit](https://hashtoolkit.com/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
 
 ## Software Tools
 
