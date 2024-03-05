@@ -23,6 +23,8 @@ The purpose of OSINT is to gather data from these open and unclassified sources 
 It's important to note that OSINT is conducted within the bounds of legal and ethical guidelines, respecting individuals' privacy and not trespassing into restricted or classified information.
 
 # OSINT Resources
+- [OSINT Framework](https://osintframework.com/){:target="_blank"}
 - [YouTube: Open-Source Intelligence (OSINT) in 5 Hours](https://www.youtube.com/watch?v=qwA6MmbeGNo){:target="_blank"}
 - [YouTube: Penn State - OSINT Playlist](https://www.youtube.com/watch?v=SvL9bpsY-ZQ&list=PLInzCGtgn6DjJXl_eU5AVC1sIBb210L2q){:target="_blank"}
-- [YouTybe: HackerSpoit](https://www.youtube.com/@HackerSploit/search?query=osint){:target="_blank"}
+- [YouTube: HackerSpoit](https://www.youtube.com/@HackerSploit/search?query=osint){:target="_blank"}
+- [YouTube: Open-Source Intelligence (OSINT) 5 Hour Course](https://www.youtube.com/watch?v=qwA6MmbeGNo){:target="_blank"}

@@ -13,8 +13,11 @@
 **"The Future of AI":** Let them know that AI is an exciting field, and in the future, we might see even more amazing AI tools that can help us with all sorts of tasks.
 
 # Artificial Intelligence (AI) Tools Resources
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/){:target="_blank"}
 - [ChatGPT](https://chat.openai.com/){:target="_blank"}
-- [Bard](https://bard.google.com/chat){:target="_blank"}
-- [Bing Chat](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8){:target="_blank"}
+- [Google Gemini](https://bard.google.com/chat){:target="_blank"}
+- [Microsoft Bing](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8){:target="_blank"}
 - [Jasper AI](https://www.jasper.ai/){:target="_blank"}
 - [SnapChat AI](https://help.snapchat.com/hc/en-us/articles/13266788358932-What-is-My-AI-on-Snapchat-and-how-do-I-use-it-){:target="_blank"}
+- [You Chat](https://you.com/search){:target="_blank"}
+- [Perplexity AI](https://www.perplexity.ai/){:target="_blank"}
